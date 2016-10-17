@@ -1,0 +1,26 @@
+typography_spectrum: 0.28290906036272645
+color:
+  brandStrength: 0.8529995544813573
+  lightness: 0.6106042484752834
+  saturation: 0.2752041444182396
+  rhythmicContrast: 0.8844465760048479
+  brandColors:
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+github: true
+layout_spectrum: 0.7377802773844451
+author:
+  name: VICENTE
+  email: vicentejover.edu@gmail.com
+  url: thegrid.ai/mrjover
+name: mr.jover
+title: Vicente Jover
+content: []
+description: Biografía
+purpose:
+  - type: contact
+    url: 'mailto:vicentejover.edu@gmail.com'
+    label: Contact me!
