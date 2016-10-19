@@ -1,17 +1,17 @@
-typography_spectrum: 0.28290906036272645
+layout_spectrum: 0.9514371809890807
+typography_spectrum: 0.15428755861006235
 color:
-  brandStrength: 0.8529995544813573
-  lightness: 0.6106042484752834
-  saturation: 0.2752041444182396
-  rhythmicContrast: 0.8844465760048479
+  brandStrength: 0.5453438612324472
+  lightness: 0.2765594332011435
+  saturation: 0.7816449567594446
+  rhythmicContrast: 0.6510701727841308
   brandColors:
-    - '#B4AF91'
-    - '#787746'
-    - '#40411E'
-    - '#32331D'
-    - '#C03000'
+    - '#A1C3E9'
+    - '#10120D'
+    - '#7F7E83'
+    - '#4B5265'
+    - '#FFFFFF'
 github: true
-layout_spectrum: 0.7377802773844451
 author:
   name: VICENTE
   email: vicentejover.edu@gmail.com
