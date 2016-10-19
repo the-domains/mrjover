@@ -1,4 +1,3 @@
-layout_spectrum: 0.6233986468126278
 typography_spectrum: 0.18902073312145057
 color:
   brandStrength: 0.9532147318470559
@@ -12,6 +11,7 @@ color:
     - '#DB9E36'
     - '#BD4932'
 github: true
+layout_spectrum: 0.6233986468126278
 author:
   name: VICENTE
   email: vicentejover.edu@gmail.com
@@ -24,3 +24,6 @@ purpose:
   - type: contact
     url: 'mailto:vicentejover.edu@gmail.com'
     label: Contact me!
+  - type: external
+    url: 'http://vicentejover.es'
+    label: Biografía
